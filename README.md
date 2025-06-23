@@ -14,3 +14,7 @@ print(load(url("https://github.com/leezx/bt2m/raw/main/data/JASPAR.motif.rmDup.r
 
 ## TCGA CRC DEGs
 gepia2_COAD_DEGs.Rdata [from: http://localhost:17449/lab/tree/projects/public_resources/public_DB/DepMap-CRC-org-viability-screen.ipynb]
+
+## batch t.test
+http://localhost:17449/lab/tree/projects/LiLab/selfDB/Drug-DB/CTRP_v2/CTRPv2.ipynb#batch-t.test
+
